@@ -1,0 +1,59 @@
+<friendslist>
+    
+    <friend>
+        <category>myinfo</category>
+        <name>방현석</name>
+        <imageName>1.png</imageName>
+        <message>정진</message>
+    </friend>
+    
+    <friend>
+        <category>favorite</category>
+        <name>이성근</name>
+        <imageName>1.png</imageName>
+        <message>정신차리고 운동하자</message>
+    </friend>
+    
+    <friend>
+        <category>favorite</category>
+        <name>노소연</name>
+        <imageName>1.png</imageName>
+        <message>휴학이 필요해</message>
+    </friend>
+    
+    <friend>
+        <category>favorite</category>
+        <name>이현섭</name>
+        <imageName>1.png</imageName>
+        <message>인생은 꿈으로 가득하다 ^-^</message>
+    </friend>
+    
+    <friend>
+        <category>friend</category>
+        <name>권희운</name>
+        <imageName>1.png</imageName>
+        <message>정진</message>
+    </friend>
+    
+    <friend>
+        <category>friend</category>
+        <name>이지은</name>
+        <imageName>1.png</imageName>
+        <message></message>
+    </friend>
+    
+    <friend>
+        <category>friend</category>
+        <name>정수호</name>
+        <imageName>1.png</imageName>
+        <message>내사랑</message>
+    </friend>
+    
+    <friend>
+        <category>friend</category>
+        <name>김가이</name>
+        <imageName>1.png</imageName>
+        <message>카톡보단 전화주세요</message>
+    </friend>
+    
+</friendslist>
